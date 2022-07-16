@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/app/herdhr/BuildConfig.java
+ com.app.herdhr.BuildConfig
