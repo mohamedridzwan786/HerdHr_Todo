@@ -1,6 +1,6 @@
 # herdhr
 
-A new Flutter project.
+HerdHr Todo Task.
 
 ## Getting Started
 
